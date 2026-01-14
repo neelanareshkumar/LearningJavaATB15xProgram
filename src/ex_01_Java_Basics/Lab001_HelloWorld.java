@@ -1,5 +1,6 @@
-package ex_01_javabasics;
+package ex_01_Java_Basics;
 
+/*
 public class Lab001_HelloWorld {
 
     public static void main(String[] args) {
@@ -9,3 +10,15 @@ public class Lab001_HelloWorld {
     }
 
 }
+*/
+
+
+class Test1
+{
+    public static void main(String as[])
+    {
+        char charValue = 'A';
+        System.out.println(charValue);
+    }
+}
+
